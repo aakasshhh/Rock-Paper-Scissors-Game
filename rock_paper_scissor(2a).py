@@ -1,4 +1,3 @@
-# import random module
 import random
 # print multiline instruction
 # performstring concatenation of string
@@ -94,6 +93,4 @@ while True:
 	ans = input().lower
 	if ans =='n':
 		break
-# after coming out of the while loop
-# we print thanks for playing
 print("thanks for playing")
